@@ -12,4 +12,4 @@ Priority: [High]
 
 Status: [not started]
 
-Notes: [NA]
+Notes: [N/A]
