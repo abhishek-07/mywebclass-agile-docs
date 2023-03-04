@@ -32,9 +32,9 @@ Risks: [1.Technological complexity: Integrating tools and systems might be diffi
 2.Security risks: DevOps tools and infrastructure raise security vulnerabilities and data breaches. HIPAA and PCI DSS compliance may increase this risk.
 3.Cost overruns: DevOps deployment may be costly, especially if infrastructure or tools is needed. If the budget is mismanaged or unanticipated expenditures develop during execution, cost overruns may occur.]
 
-Dependencies: [1.Infrastructure modifications may be necessary for the adoption of a DevOps process, including the deployment of additional servers or the use of a cloud-based platform. Before the DevOps approach can be used, certain infrastructure upgrades may need to be completed.
-2.Tools and systems: The adoption of new tools and systems, such as source code management tools, continuous integration and delivery tools, monitoring and testing tools, may be necessary to establish a DevOps approach. Before the DevOps process can be adopted, these tools may need to be chosen, set up, and integrated.
-3.Teamwork: To successfully implement a DevOps approach, it may be necessary for development, operations, and quality assurance teams as well as other teams to work together. It can be required to make sure that all teams are willing to work successfully and are in agreement with the DevOps process's aims and objectives.]
+Dependencies: [1.Infrastructure changes, such as the deployment of more servers or the use of a cloud-based platform, may be required for the implementation of a DevOps approach. Certain infrastructure changes might need to be finished before the DevOps approach can be employed.
+2.Tools and systems: Adopting new tools and systems, such as source code management tools, continuous integration and delivery tools, monitoring and testing tools, may be required to develop a DevOps approach. It may be necessary to pick, set up, and integrate these tools before the DevOps process is implemented.
+3.Teamwork: To successfully execute a DevOps methodology, collaboration across the development, operations, and quality assurance teams may be required. Making sure that can be necessary]
 
 Team: [1.Project Manager: In charge of managing the project's timetable, money, and resources, as well as assuring the project's success.
 2.DevOps Engineer: Responsible for establishing and sustaining the DevOps process, including tool and system selection and setup.
