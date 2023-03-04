@@ -1,4 +1,4 @@
-"As a [developer], I want to construct a website that is functional, responsive, secure, and performance-optimized, so that it delivers a smooth and satisfying user experience, satisfies project goals, and adheres to industry standards and best practices."
+"As a [user role], I want to [do something] so that [achieve a specific goal]."
 
 By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
 
@@ -6,10 +6,11 @@ By following this template, you can create user stories that are structured and 
 
 Acceptance Criteria:
 
-1. Branding must be across the portal throughout the website.
-2. The website must work and provide all project parameters.
-3. The website must be responsive on computers, laptops, tablets, and smartphones.
-4. The website must safeguard user data from illegal access, misuse, and hacking.
+The order history page displays a list of all past orders, including the date, order number, and total cost.
+Each order in the list is clickable and leads to a detailed view of the order.
+The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
+The order history page can be accessed from the customer account dashboard.
+The order history page is only accessible to authenticated customers.
 
 
 # List Stories related to this theme

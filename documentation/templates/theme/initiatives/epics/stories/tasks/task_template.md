@@ -1,15 +1,15 @@
-Task Title: [Establish pipeline to trigger code changes on repository]
+Task Title: [Short, descriptive title for the task]
 
-User Story: [As a user, It is important that the pipeline be configured such that it starts running automatically whenever there is a modification made to the code repository.]
+User Story: [Reference the user story that this task supports]
 
-Description: [In order to do this work, you will need to build up a pipeline that will activate itself whenever there is a modification made to the code repository. Throughout the pipeline, there should be automated tests that validate not only the deployment process but also the functionality and performance of the code that has been modified.]
+Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
 
-Effort Estimate: [1 Hour]
+Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
 
-Assigned To: [Abhishek Reddy Police]
+Assigned To: [Assign the task to a team member who will be responsible for completing it]
 
-Priority: [High]
+Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
 
-Status: [Not Started]
+Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
 
-Notes: [NA]
+Notes: [Include]
