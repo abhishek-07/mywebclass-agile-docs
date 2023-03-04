@@ -38,7 +38,8 @@ Dependencies: [1.Infrastructure modifications may be necessary for the adoption 
 
 Team: [1.Project Manager: In charge of managing the project's timetable, money, and resources, as well as assuring the project's success.
 2.DevOps Engineer: Responsible for establishing and sustaining the DevOps process, including tool and system selection and setup.
-3.Infrastructure Engineer: Manages the infrastructure needed for the DevOps process, including as servers, storage, and cloud-based platforms.]
+3.Infrastructure Engineer: Manages the infrastructure needed for the DevOps process, including as servers, storage, and cloud-based platforms.
+4.Quality Analyst: Test the entire website from end-to-end]
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
