@@ -11,9 +11,9 @@ User Stories: [1.In order to simply refer to it and follow the procedures to int
 2.In order for the development team to adopt a process that satisfies the project's criteria, I want to provide the DevOps process' requirements as the project manager.
 3.As the owner of a website, I want to make sure that the DevOps process conforms with all applicable legislation, such as the GDPR and data protection rules.]
 
-Dependencies: [1.Availability of resources: The team members in charge of developing the strategy should have enough time, funding, and access to the essential tools and technology to establish the DevOps process.
-2.Knowledge of the present system: Before implementing a DevOps process, it is critical to have a thorough grasp of the current system architecture and infrastructure. This may include undertaking a detailed examination of the present system and finding opportunities for improvement.
-3.Cooperation and communication: The success of a DevOps process is dependent on efficient collaboration and communication between the development, operations, and security teams. It is critical that all team members understand the process's objectives, needs, and timescales.]
+Dependencies: [1. Resource accessibility: The team members in charge of creating the plan should have enough time, money, and access to the necessary tools and technology to set up the DevOps process.
+2.System knowledge: Prior to establishing a DevOps process, it is crucial to have a firm understanding of the architecture and infrastructure of the current system. This could involve thoroughly analyzing the current system and looking for areas where it can be improved.
+3.Effective collaboration and communication: A DevOps process's success depends on the ability of the development, operations, and security teams to work together and communicate effectively. All team members must be aware of the process's goals, requirements, and deadlines.]
 
 Risks: [1.Lack of clarity in requirements: The DevOps process may experience delays, rework, and higher costs if its needs are not well defined or documented.
 2.Technological complexity: The DevOps process may need specific skills and experience that may not be easily accessible within the team if it includes complicated technology or tools.
