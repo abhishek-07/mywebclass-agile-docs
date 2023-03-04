@@ -6,7 +6,7 @@ By following this template, you can create user stories that are structured and 
 
 Acceptance Criteria:
 
-1. Branding must be consistent throughout the website.
+1. Branding must be across the portal throughout the website.
 2. The website must work and provide all project parameters.
 3. The website must be responsive on computers, laptops, tablets, and smartphones.
 4. The website must safeguard user data from illegal access, misuse, and hacking.
